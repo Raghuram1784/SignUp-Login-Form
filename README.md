@@ -4,7 +4,7 @@
 This project is a visually appealing signup and login form featuring smooth transitions, built using HTML, CSS, and JavaScript. It allows users to navigate through the login and registration processes seamlessly. While the form is designed as a static webpage for demonstration purposes, it showcases a key feature that lets users view their passwords by clicking on an eye icon.
 
 ## Features
-- User-friendly interface for login and signup
+- User-friendly interface for login and signup.
 - Password visibility toggle
 - Fully animated transitions for a smooth user experience
 - Responsive design
