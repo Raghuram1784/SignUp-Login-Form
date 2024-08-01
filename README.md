@@ -5,7 +5,7 @@ This project is a visually appealing signup and login form featuring smooth tran
 
 ## Features
 - User-friendly interface for login and signup.
-- Password visibility toggle
+- Password visibility toggle.
 - Fully animated transitions for a smooth user experience
 - Responsive design
 - Icons used from [Font Awesome](https://fontawesome.com/)
