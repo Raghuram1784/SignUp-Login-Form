@@ -10,10 +10,13 @@ This project is a simple signup and login form built using HTML, CSS, and JavaSc
 - Icons used from [Font Awesome](https://fontawesome.com/)
 
 ## Screenshots
-![Signup Form](SignUp-Login-Form/Application-Screenshots/SignUp1)
+![Login Form](SignUp-Login-Form/Application-Screenshots/Login1.png)
+![Login Form](SignUp-Login-Form/Application-Screenshots/Login2.png)
+*Login Form*
+
+![Signup Form]()
 *Signup Form*
 
-![Login Form](path/to/your/login-screenshot.png)
-*Login Form*
+
 
 
