@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login and Registration</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+      integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+      crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+</head>
+<body>
+    <div class="container">
+        <div class="curved-shape"></div>
+        <div class="curved-shape2"></div>
+        <div class="form-box Login">
+            <h2 class="animation" style="--D:0; --S:21">Login</h2>
+            <form action="#">
+                <div class="input-box animation" style="--D:1; --S:22">
+                    <input type="text" required>
+                    <label for="">Username</label>
+                    <i class="fa-solid fa-user"></i>
+                </div>
+                <div class="input-box animation" style="--D:2; --S:23">
+                    <input type="password" required id="MyInput1">
+                    <label for="">Password</label>
+                    <i class="fa-regular fa-eye Eyecon"></i>
+                </div>
+                <div class="input-box animation" style="--D:3; --S:24">
+                    <button class="btn" type="submit">Login</button>
+                </div>
+                <div class="regi-link animation" style="--D:4; --S:25">
+                    <p>Don't have an account? <a href="#" class="SignUpLink">Sign Up</a></p>
+                </div>
+            </form>
+        </div>
+        <div class="info-content Login">
+            <h2 class="animation" style="--D:0;--S:20">WELCOME BACK</h2>
+            <p class="animation" style="--D:1; --S:21">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi, excepturi?</p>
+        </div>
+
+        <div class="form-box Register">
+            <h2 class="animation" style="--li:17; --S:0;">Register</h2>
+            <form action="#">
+                <div class="input-box animation" style="--li:18; --S:1;">
+                    <input type="text" required>
+                    <label for="">Username</label>
+                    <i class="fa-solid fa-user"></i>
+                </div>
+                <div class="input-box animation" style="--li:19; --S:2;">
+                    <input type="email" required id="emailInput">
+                    <label for="emailInput">Email</label>
+                    <i class="fa-solid fa-envelope"></i>
+                </div>
+                <div class="input-box animation" style="--li:20; --S:3;">
+                    <input type="password" required id="MyInput2">
+                    <label for="">Password</label>
+                    <i class="fa-regular fa-eye Eyecon"></i>
+                </div>
+                <div class="input-box animation" style="--li:21; --S:4;">
+                    <button class="btn" type="submit">Register</button>
+                </div>
+                <div class="regi-link animation" style="--li:22; --S:5;">
+                    <p>Already have an account? <a href="#" class="SignInLink">Sign In</a></p>
+                </div>
+            </form>
+        </div>
+        <div class="info-content Register">
+            <h2 class="animation" style="--li:17; --S:0;">WELCOME BACK</h2>
+            <p class="animation" style="--li:18; --S:1;">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi, excepturi?</p>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
