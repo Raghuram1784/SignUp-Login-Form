@@ -14,7 +14,8 @@ This project is a simple signup and login form built using HTML, CSS, and JavaSc
 ![Login Form](SignUp-Login-Form/Application-Screenshots/Login2.png)
 *Login Form*
 
-![Signup Form]()
+![Signup Form](SignUp-Login-Form/Application-Screenshots/SignUp1.png)
+![Signup Form](SignUp-Login-Form/Application-Screenshots/SignUp2.png)
 *Signup Form*
 
 
