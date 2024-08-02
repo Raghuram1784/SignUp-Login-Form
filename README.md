@@ -21,7 +21,7 @@ This project is a visually appealing signup and login form featuring smooth tran
 ![Login Form](SignUp-Login-Form/Application-Screenshots/Login1.png)
 ![Login Form](SignUp-Login-Form/Application-Screenshots/Login2.png)
 
-*Signup Form*
+### Signup Form
 ![Signup Form](SignUp-Login-Form/Application-Screenshots/SignUp1.png)
 ![Signup Form](SignUp-Login-Form/Application-Screenshots/SignUp2.png)
 
