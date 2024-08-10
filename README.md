@@ -1,4 +1,4 @@
-# SignUp-Login-Form
+# SignUp-Login-Fo
 
 ## Description
 This project is a visually appealing **signup** and **login** form featuring smooth transitions, built using **HTML, CSS, and JavaScript**. It allows users to navigate through the login and registration processes seamlessly. While the form is designed as a static webpage for demonstration purposes, it showcases a key feature that lets users view their passwords by clicking on an eye icon.
